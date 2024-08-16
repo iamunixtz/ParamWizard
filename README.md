@@ -1,5 +1,5 @@
-# ParamWizard
-ParamNinja is a powerful Python-based tool designed for extracting and identifying URLs with parameters from a specified website. It provides a comprehensive way to discover hidden parameters within a web application by crawling and analyzing the URLs of the domain. The tool can handle both HTTP and HTTPS URLs and ensures that only URLs belonging to the specified domain are processed, offering a focused and relevant extraction of parameters.
+# **ParamWizard - URL Parameter Extractor**
+ParamWizard is a powerful Python-based tool designed for extracting and identifying URLs with parameters from a specified website. It provides a comprehensive way to discover hidden parameters within a web application by crawling and analyzing the URLs of the domain. The tool can handle both HTTP and HTTPS URLs and ensures that only URLs belonging to the specified domain are processed, offering a focused and relevant extraction of parameters.
 
 ```
 python3 paramwizard.py -h                             
