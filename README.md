@@ -49,7 +49,7 @@ Options:
     
 ```
 
-#Installation on Kali/debian
+# Installation on Kali/debian
 ```
 apt update  -y && apt upgrade -y
 apt install python3
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 python3 paramwizard.py -h
 ```
 
-#Usage Manual on Single Target.
+# Usage Manual on Single Target.
 ```
 python3 paramwizard.py -u target.com -v
 ```
