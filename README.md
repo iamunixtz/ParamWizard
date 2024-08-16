@@ -43,6 +43,11 @@ Options:
   -f, --file FILE       File containing URLs to process
   -o, --output FILE     Output file name (default: paramwizard.txt)
   -v, --verbose mode    Show logs
+  --time-sec            Increase time to waiting for target response
+  --threads             Increasing number of threads 
   
     
 ```
+# NB : Tool now it facing some ssl certficate issues on some webiste but it will be fixed soon .if u can handle this feel free to dm me on X https://x.com/iamunixtz i will add as contributor Thanks You!
+
+
